@@ -1,0 +1,5 @@
+#include "Pods-JGDetailScrubber.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/JGDetailScrubber" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/JGDetailScrubber"
+OTHER_LDFLAGS = ${PODS_JGDETAILSCRUBBER_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}

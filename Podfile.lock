@@ -1,0 +1,10 @@
+PODS:
+  - JGDetailScrubber (1.0)
+
+DEPENDENCIES:
+  - JGDetailScrubber (= 1.0)
+
+SPEC CHECKSUMS:
+  JGDetailScrubber: e968f24cef41ebe1a7d1051f2ff6a3fc60196217
+
+COCOAPODS: 0.35.0

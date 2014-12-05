@@ -1,0 +1,1 @@
+../../../JGDetailScrubber/JGDetailScrubber/JGDetailScrubber.h
